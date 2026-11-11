@@ -7,4 +7,4 @@ This folder contains the submission link for Lab 6.
 
 **Bookstore Trade-In — Code and Branch Coverage**
 
-Project repository: 
+Project repository: https://github.com/Shweta1810/Lab6_bookstore_trade_in.git
